@@ -1,0 +1,99 @@
+﻿html { 
+  background: url(PT-BACK.jpg) no-repeat center center fixed; 
+background-size:100% 100%;
+
+}
+
+body {
+    background-image:url(SunnyPT-Login.png);
+    background-position:center top;
+    background-repeat:no-repeat
+}
+
+.user {
+	 background: transparent;
+    border: none;
+	position:absolute;
+     top:354;
+	 right: 50%;
+	 margin-right:-57px;
+     overflow:hidden;
+     z-index:0;
+	 color: #ffffff;
+	 text-align: center; 
+	 font-weight:bold;
+	
+}
+
+.pass {
+	 background: transparent;
+    border: none;
+	position:absolute;
+     top:398;
+	 right: 50%;
+	 margin-right:-57px;
+     overflow:hidden;
+     z-index:0;
+	  color: #ffffff;
+	 text-align: center; 
+	 font-weight:bold;
+}
+
+.register {
+	display: block;
+	position:absolute;
+     top:433;
+	 right: 50%;
+	 margin-right:-36px;
+     overflow:hidden;
+     z-index:0;
+	 border: 0;
+	 background-image: url('reg-off.jpg'); 
+	 width: 64px;
+	height: 32px;
+	
+}
+
+a.register:hover {
+	background-image: url('reg-on.jpg'); 
+}
+
+.reg {
+	
+	position:absolute;
+     top:435;
+	 right: 50%;
+	 margin-right:-48px;
+     overflow:hidden;
+     z-index:0;	
+}
+
+.download {
+	display: block;
+	position:absolute;
+     top:433;
+	 right: 50%;
+	 margin-right:30px;
+     overflow:hidden;
+     z-index:0;
+	 border: 0;
+	 background-image: url('download.jpg'); 
+	 width: 64px;
+	height: 32px;
+	
+}
+
+.info {
+	display: block;
+	position:absolute;
+     top:433;
+	 right: 50%;
+	 margin-right:-102px;
+     overflow:hidden;
+     z-index:0;
+	 border: 0;
+	 background-image: url('info.jpg'); 
+	 width: 64px;
+	height: 32px;
+	
+}

@@ -1,0 +1,11 @@
+UPDATE_VERSION=3200
+UPDATE_PATH=http://sunnypt.priston.world/update/files/
+UPDATE_INFO=http://sunnypt.priston.world/update/setfile.lst
+UPDATE_DIRINFO=http://sunnypt.priston.worldT/update/setdir.lst
+HOME_URL=sunnypt.priston.world.com
+CLAN_URL=ttp://sunnypt.pristonworld.com/
+SOD_URL=http://sunnypt.pristonworld.com/
+*SERVER_NAME=SunnyPT
+SERVER1=94.23.168.216
+SERVER2=94.23.168.216
+SERVER3=94.23.168.216
